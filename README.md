@@ -58,7 +58,7 @@ mn-p2-grupo-3-conduccion-termica/
 ├── README.md
 ├── .gitignore
 └── .gitattributes
-```text
+```
 
 
 ## Integrantes:
